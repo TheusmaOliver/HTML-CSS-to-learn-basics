@@ -5,8 +5,9 @@
     padding: 0px;
     box-sizing: border-box;
     outline: none;
-    font-family: 'Robotos', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
+
 
 html {
     scroll-behavior: smooth;
@@ -14,7 +15,6 @@ html {
 
 :root {
     --gray: #ededed;
-    --orange: #f78b00;
 }
 
 html,
